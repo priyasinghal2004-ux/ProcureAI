@@ -1,0 +1,6 @@
+{
+  "name": "ProcureAI",
+  "description": "AI-Powered Government Procurement Platform connecting government challenges with startup solutions through intelligent evaluation, KPI-based pilot verification, and evidence-based procurement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
